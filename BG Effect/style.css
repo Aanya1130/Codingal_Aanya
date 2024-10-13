@@ -1,0 +1,16 @@
+body {
+    background-color: aquamarine;
+    background-image: url("tree.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.top_section {
+    width: 100%;
+    height: 50px;
+    background-color: navy;
+    color: white;
+    text-align: center;
+    background-image: linear-gradient(to right, indigo, blue, navy, blue, indigo);
+}
