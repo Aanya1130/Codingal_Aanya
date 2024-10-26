@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    color: aliceblue
+}
+
+header {
+    background-color: rgb(122, 29, 29);
+    padding: 20px;
+    border: 2px solid aliceblue;
+    text-align: center;
+}
+
+header h1 {
+    text-shadow: 5px 10px 5px rgb(119, 119, 119);
+}
+
+section {
+    background-color: rgb(116, 140, 140);
+    /* padding: 20px 10px 40px 50px; */
+    padding: 20px;
+    margin: 30px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+#ticket_section {
+    width: 100px;
+    margin: 20px;
+    background-color: rgb(122, 29, 29);
+    padding: 20px;
+    text-align: center;
+    float: right;
+}
+
+#cinema_hall_section {
+    width: 100px;
+    margin: 20px;
+    background-color: rgb(122, 29, 29);
+    padding: 20px;
+    text-align: center;
+}
