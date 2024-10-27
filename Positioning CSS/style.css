@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: rgb(205, 244, 255);
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    height: 100px;
+}
+
+.sidebar {
+    position: fixed;
+    top: 120px;
+    left: 0;
+    width: 150px;
+    background-color: rgb(218, 198, 255);
+    padding: 10px;
+    height: 140px;
+}
+
+.content {
+    margin-left: 180px;
+    margin-top: 130px;
+    padding: 30px 10px 10px 0px;
+}
+
+.content section {
+    margin-bottom: 200px;
+}
+
+footer {
+    width: 100%;
+    background-color: rgb(243, 195, 195);
+    padding: 20px;
+    position: sticky;
+    bottom: 0;
+    text-align: center;
+}
+
+* {
+    margin: 0;
+}
